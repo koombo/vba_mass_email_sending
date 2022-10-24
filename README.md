@@ -5,5 +5,5 @@ This vba code is intended to prepare emails with the same content and attachment
 To use this code need to install Outlook and Excel.
 
 # How to run code
-Dowload Excel file. Fill in the appropriate fields and press the dedicated buttons.
+Dowload Excel file. Fill in the appropriate fields and press the dedicated buttons. Password to see VBA code is "1990"
 
